@@ -1,0 +1,60 @@
+export const snacks = [
+  // obj with array
+  {
+    name:
+    type:
+    img:
+    ingredients: [
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+    ]
+  },
+  {
+    name:
+    type:
+    img:
+    ingredients: [
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+    ]
+  },
+  {
+    name:
+    type:
+    img:
+    ingredients: [
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+      {
+        name:
+        amount:
+      },
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+export const bobsCharacters = [
+  // simple obj
+  {
+    name:
+    age:
+    role:
+    img:
+  },
+  {
+    name:
+    age:
+    role:
+    img:
+  },
+  {
+    name:
+    age:
+    role:
+    img:
+  },
+  {
+    name:
+    age:
+    role:
+    img:
+  },
+  {
+    name:
+    age:
+    role:
+    img:
+  },
+]
