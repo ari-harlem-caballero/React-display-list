@@ -1,4 +1,5 @@
 import React from 'react';
+import IngredientList from './IngredientList';
 
 export default function Snack({
   name,
@@ -11,7 +12,7 @@ export default function Snack({
     <p>Type: {type}</p>
     <img alt={name} src={img}/>
     <div className='ingredients-div'>
-      
+      <IngredientList ingredients={ingredients} />
     </div>
   </div>;
 }
