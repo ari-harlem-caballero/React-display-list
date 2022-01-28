@@ -1,59 +1,59 @@
 export const snacks = [
   // obj with array
   {
-    name:
-    type:
+    name: 'charcuterie',
+    type: 'mixed',
     img:
     ingredients: [
       {
-        name:
-        amount:
+        name: 'cheese',
+        amount: 'heavy'
       },
       {
-        name:
-        amount:
+        name: 'jams',
+        amount: 'generous'
       },
       {
-        name:
-        amount:
+        name: 'toast points',
+        amount: 'enough to hold the cheese'
       },
     ]
   },
   {
-    name:
-    type:
+    name: 'smoothie',
+    type: 'drink',
     img:
     ingredients: [
       {
-        name:
-        amount:
+        name: 'chocolate syrup',
+        amount: 'enough to hide the healthy factor'
       },
       {
-        name:
-        amount:
+        name: 'bananas',
+        amount: 'medium for that ice-cream consistency'
       },
       {
-        name:
-        amount:
+        name: 'oatmilk',
+        amount: `just enough so the blender doesn't break`
       },
     ]
   },
   {
-    name:
-    type:
+    name: 'rice krispies',
+    type: 'sweet',
     img:
     ingredients: [
       {
-        name:
-        amount:
+        name: 'rice krispies cereal',
+        amount: '1 1/2 boxes'
       },
       {
-        name:
-        amount:
+        name: 'marshmallows',
+        amount: 'whatever is left after snacking'
       },
       {
-        name:
-        amount:
+        name: 'browned butter',
+        amount: 'the most'
       },
     ]
   }

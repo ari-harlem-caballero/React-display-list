@@ -1,7 +1,7 @@
 export const officeQuotes = [
-  quote1:
-  quote2:
-  quote3:
-  quote4:
-  quote5:
+  'I am Beyonce, always. -- Michael',
+  `I'm not superstitious, but I'm a little stitious. -- Michael`,
+  `You're not real, man. -- Creed`,
+  `The eyes are the groin of the head. -- Dwight`,
+  `I consider myself a good person, but I'm gonna try to make him cry. -- Oscar`
 ]

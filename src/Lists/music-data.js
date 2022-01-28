@@ -1,32 +1,32 @@
 export const music = [
   // nested
   {
-    artist:
-    type:
+    artist: 'Lil Nas X',
+    type: 'rap',
     img:
     album: {
-        title:
-        date:
+        title: 'Montero',
+        date: 'September 17, 2021',
         img:
     },
   },
   {
-    artist:
-    type:
+    artist: 'AURORA',
+    type: 'Nordic-folk, electopop'
     img:
     album: {
-        title:
-        date:
+        title: 'The Gods We Can Touch',
+        date: 'January 21, 2022'
         img:
     },
   },
   {
-    artist:
-    type:
+    artist: 'Agust D'
+    type: 'rap'
     img:
     album: {
-        title:
-        date:
+        title: 'D-2',
+        date: 'May 22, 2020'
         img:
     },
   },

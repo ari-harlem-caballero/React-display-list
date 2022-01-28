@@ -1,33 +1,33 @@
 export const bobsCharacters = [
   // simple obj
   {
-    name:
-    age:
-    role:
+    name: 'Bob',
+    age: 44,
+    role: 'father',
     img:
   },
   {
-    name:
-    age:
-    role:
+    name: 'Linda',
+    age: 44,
+    role: 'mother',
     img:
   },
   {
-    name:
-    age:
-    role:
+    name: 'Tina',
+    age: 13,
+    role: 'eldest child',
     img:
   },
   {
-    name:
-    age:
-    role:
+    name: 'Gene',
+    age: 11,
+    role: 'music star/middle child',
     img:
   },
   {
-    name:
-    age:
-    role:
+    name: 'Louise',
+    age: 9,
+    role: 'youngest/master of destruction'
     img:
   },
 ]
