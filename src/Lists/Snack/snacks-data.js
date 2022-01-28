@@ -1,4 +1,4 @@
-export const snacks = [
+export const snacksArr = [
   // obj with array
   {
     name: 'charcuterie',

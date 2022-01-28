@@ -1,4 +1,4 @@
-export const music = [
+export const musicArr = [
   // nested
   {
     artist: 'Lil Nas X',

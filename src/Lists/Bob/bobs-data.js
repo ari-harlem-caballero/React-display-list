@@ -1,4 +1,4 @@
-export const bobsCharacters = [
+export const bobsArr = [
   // simple obj
   {
     name: 'Bob',
