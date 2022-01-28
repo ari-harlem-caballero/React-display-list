@@ -4,6 +4,9 @@ import { quotesArr } from './Lists/Quote/quotes-data';
 
 import BobsList from './Lists/Bob/BobsList';
 import { bobsArr } from './Lists/Bob/bobs-data';
+
+import MusicList from './Lists/Music/MusicList';
+import { musicArr } from './Lists/Music/music-data';
 // import your arrays here
 
 function App() {
@@ -13,6 +16,8 @@ function App() {
       <QuotesList quotes={quotesArr} />
       <h2>Bobs Burgers Characters</h2>
       <BobsList bobs={bobsArr} />
+      <h2>Favorite Artist and Album</h2>
+      <MusicList musics={musicArr} />
     </div>
   );
 }
