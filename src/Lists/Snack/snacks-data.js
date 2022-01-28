@@ -1,60 +1,60 @@
 export const snacksArr = [
   // obj with array
   {
-    name: 'charcuterie',
+    name: 'Charcuterie',
     type: 'mixed',
-    img:
+    img: 'https://www.placebear.com/200/200',
     ingredients: [
       {
-        name: 'cheese',
+        name: 'Cheese',
         amount: 'heavy'
       },
       {
-        name: 'jams',
+        name: 'Jams',
         amount: 'generous'
       },
       {
-        name: 'toast points',
+        name: 'Toast points',
         amount: 'enough to hold the cheese'
       },
     ]
   },
   {
-    name: 'smoothie',
+    name: 'Smoothie',
     type: 'drink',
-    img:
+    img: 'https://www.placebear.com/200/200',
     ingredients: [
       {
-        name: 'chocolate syrup',
+        name: 'Chocolate syrup',
         amount: 'enough to hide the healthy factor'
       },
       {
-        name: 'bananas',
+        name: 'Bananas',
         amount: 'medium for that ice-cream consistency'
       },
       {
-        name: 'oatmilk',
+        name: 'Oatmilk',
         amount: `just enough so the blender doesn't break`
       },
     ]
   },
   {
-    name: 'rice krispies',
+    name: 'Rice Krispies',
     type: 'sweet',
-    img:
+    img: 'https://www.placebear.com/200/200',
     ingredients: [
       {
-        name: 'rice krispies cereal',
+        name: 'Rice Krispies Cereal',
         amount: '1 1/2 boxes'
       },
       {
-        name: 'marshmallows',
+        name: 'Marshmallows',
         amount: 'whatever is left after snacking'
       },
       {
-        name: 'browned butter',
+        name: 'Browned butter',
         amount: 'the most'
       },
     ]
   }
-]
+];

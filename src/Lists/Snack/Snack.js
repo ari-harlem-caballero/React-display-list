@@ -8,7 +8,7 @@ export default function Snack({
   ingredients
 }) {
   return <div className='snack-div'>
-    <p>Name: {name}</p>
+    <h3>{name}</h3>
     <p>Type: {type}</p>
     <img alt={name} src={img}/>
     <div className='ingredients-div'>

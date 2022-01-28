@@ -7,6 +7,9 @@ import { bobsArr } from './Lists/Bob/bobs-data';
 
 import MusicList from './Lists/Music/MusicList';
 import { musicArr } from './Lists/Music/music-data';
+
+import SnacksList from './Lists/Snack/SnacksList';
+import { snacksArr } from './Lists/Snack/snacks-data';
 // import your arrays here
 
 function App() {
@@ -18,6 +21,8 @@ function App() {
       <BobsList bobs={bobsArr} />
       <h2>Favorite Artist and Album</h2>
       <MusicList musics={musicArr} />
+      <h2>Favorite Snacks:</h2>
+      <SnacksList snacks={snacksArr} />
     </div>
   );
 }

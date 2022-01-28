@@ -5,6 +5,6 @@ export default function Ingredient({
   amount
 }) {
   return <div className='ingredients'>
-    <p>Name: {name}, Amount: {amount}</p>
+    <p> <span className='ingredient-name'>{name}</span> ---  {amount}</p>
   </div>;
 }
